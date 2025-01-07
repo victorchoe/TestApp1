@@ -8,5 +8,6 @@ class Program
         Console.WriteLine("aaaa");
         Console.WriteLine("add: home test");
         Console.WriteLine("happy new year at home");
+        //근데 이상하다. 깃 허브에 솔루션(sln) 파일이 또 생겼다.
     }
 }
