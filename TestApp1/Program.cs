@@ -8,5 +8,6 @@ class Program
         Console.WriteLine("aaaa");
         Console.WriteLine("add: home test");
         Console.WriteLine("happy new year at home");
+        Console.WriteLine("20250107add");
     }
 }
